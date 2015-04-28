@@ -1,0 +1,10 @@
+Code Style by Javier Sabariego Cano:
+
+FileName:
+	-PascalCase.
+Variables:
+	-PascalCase
+Class Name:
+	-PascalCase
+Method:
+	-PascalCase
